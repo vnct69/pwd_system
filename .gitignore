@@ -1,0 +1,12 @@
+# Flutter
+pwd_flutter_frontend/build/
+pwd_flutter_frontend/.dart_tool/
+pwd_flutter_frontend/.idea/
+pwd_flutter_frontend/.vscode/
+pwd_flutter_frontend/pubspec.lock
+
+# Go
+pwd_go_backend/bin/
+pwd_go_backend/*.exe
+pwd_go_backend/*.out
+pwd_go_backend/.env
